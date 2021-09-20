@@ -1,0 +1,38 @@
+main {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+header {
+    color:crimson;
+    text-align: center;
+    font-size: large;
+    padding-bottom: 1%;
+}
+.column {
+    float:left;
+    width: 33%;
+}
+.row {
+    height:33%;
+}
+h1 {
+    color:cornflowerblue;
+    width: auto;
+    font-size: medium;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+img {
+    width:90%;
+    height:90%;
+    padding-left: 5%;
+    padding-top: 15%;
+}
+p {
+    width: auto;
+    height: 50%;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 20%;
+}
